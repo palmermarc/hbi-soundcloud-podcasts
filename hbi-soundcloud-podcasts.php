@@ -16,7 +16,7 @@
  * Plugin Name:       HBI SoundCloud Podcasts
  * Plugin URI:        http://hubbardinteractivestl.com/plugins/hbi-soundcloud-podcasts
  * Description:       Plugin to handle all of the importing and displaying of Podcasts on 101Sports.com
- * Version:           1.3
+ * Version:           1.3.1
  * Author:            Marc Palmer
  * Author URI:        http://www.hubbardinteractivestl.com/plugins/marc-palmer/
  * Text Domain:       hbi-soundcloud-podcasts-locale
