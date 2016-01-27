@@ -1,0 +1,21 @@
+.podcast_bin{}
+.podcast_placeholder{background:#000 url('/wp-content/uploads/2014/04/101ESPN-Audio-Booth-Background.jpg') no-repeat center center;background-size:contain;height:184px;width:100%;}
+.podcast_segment{color:#fff;background-color:#b60e0e;display:inline-block;width:90px;text-align:center;font-weight:bold;padding:10px;text-transform:uppercase;}
+.podcast.active .podcast_segment{background-color:#4b4b4b;}
+.podcasts{border:1px solid #000;}
+.podcast{display:block;border-bottom:1px solid #000;cursor:pointer;}
+.podcast:last-child{border-bottom:0px;}
+.podcast_title{cursor:pointer;display:inline-block;width:500px;color:#000;vertical-align:top;font-weight:bold;}
+.podcast.active{background-color:#b60e0e;color:#fff;}
+.podcast.active .podcast_title{color:#fff;}
+.podcast_embed{display:none;}
+.podcast_placeholder iframe{width:90%;margin:0px auto;height:auto;display:block;padding-top:17px;}
+.podcast_tabs{height:25px;color:#fff;font-weight:bold;background-color:#000;margin-top:-1px;padding-left:10px;}
+.podcast_tab{color:#cd2122;cursor:pointer;display:inline-block;margin:5px 0px;}
+.podcast_tab:after{content:"|";padding:0px 3px;color:#fff;}
+.podcast_tab:last-child:after{content:"";}
+#segments{display:block;}
+#hourly{display:none;}
+@media only screen and (max-width:479px){.podcast_tabs{height:45px;}
+.podcast_tab{display:table-cell;}
+}

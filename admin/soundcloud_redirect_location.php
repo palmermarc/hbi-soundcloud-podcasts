@@ -1,0 +1,1 @@
+<p>Copy this code and place it into the Access Code field: <?php echo $_GET['code']; ?></p>

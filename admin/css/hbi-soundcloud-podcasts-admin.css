@@ -1,0 +1,7 @@
+.mce-i-podcasts:before { 
+	font-family: "dashicons"; 
+	content: "\f488";
+}
+#soundcloud_access_code {
+	display: none;
+}
